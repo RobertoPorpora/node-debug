@@ -1,13 +1,17 @@
 {
   "name": "debug",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "example.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "example": "node ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "debug",
+    "logging",
+    "file"
+  ],
+  "author": "RobertoPorpora",
+  "license": "MIT",
+  "description": "Simple log-to-file library for debugging Node.js scripts.",
   "type": "module"
 }
