@@ -124,3 +124,15 @@ root
 <div style="text-align: right;">
     <a href="#node-debug">Back to top</a>
 </div>
+
+
+## Links.
+
+- [Debug logger for Python.](https://github.com/RobertoPorpora/python-debug)
+- [Debug logger for C/C++.](https://github.com/RobertoPorpora/c-debug)
+- [Debug logger for Node.js.](https://github.com/RobertoPorpora/node-debug)
+
+
+<div style="text-align: right;">
+    <a href="#node-debug">Back to top</a>
+</div>
